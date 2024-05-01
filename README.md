@@ -1,4 +1,4 @@
-- 👋 Hi I’m @rxt1
+- Hi I’m @rxt1
 - why are you here
 - I’m interested in stuff
 - Currently learning C+ and Java
